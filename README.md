@@ -193,7 +193,8 @@ JavaScript в браузере выполняется в два этапа:
 
 Материалы по теме:<br>
 [YouTube. Event Loop. Jake Archibald 2018](https://youtu.be/j4_9BZezSUA?list=WL)<br>
-[YouTube. Event Loop. 2017](https://youtu.be/8cV4ZvHXQL4)
+[YouTube. Event Loop. 2017](https://youtu.be/8cV4ZvHXQL4)<br>
+[Event Loop в реальном времени - песочница](https://cutt.ly/ItCmqGO)
 
 ## 9. Отрисовка сss в браузере.
 
